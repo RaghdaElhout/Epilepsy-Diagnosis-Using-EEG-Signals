@@ -1,0 +1,136 @@
+c:\users\manoorah\documents\visual studio 2012\Projects\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+D:\SC\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+D:\SC\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Form1.resources
+D:\SC\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+D:\SC\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+D:\SC\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.CoreCompileInputs.cache
+D:\SC\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Form1.resources
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\Manoorah\Downloads\BackPropagation\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.Form1.resources
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\Manoorah\Documents\Visual Studio 2012\Projects\BackPropagation1\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\F.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\N.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\O.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\S.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation\BackPropagation\bin\Debug\z.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe.config
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\F.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\N.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\O.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\S.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\z.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\F.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\N.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\O.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\S.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\z.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\F.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\N.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\O.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\S.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\z.txt
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+C:\Users\vip\Desktop\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\F.txt
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\N.txt
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\O.txt
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\S.txt
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\z.txt
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\manar\Downloads\BackPropagation & RBF (Project) - Copy\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe.config
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\F.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\N.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\O.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\S.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\z.txt
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.exe
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\bin\Debug\BackPropagation.pdb
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+E:\FCIS\Forth_YEAR\First_Term\CI\Project\BackPropagation & RBF (Project) - Copy\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\F.txt
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\N.txt
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\O.txt
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\S.txt
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\z.txt
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.BackpropagationForm.resources
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.WELCOME.resources
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.RBF_Form.resources
+C:\Users\vip\Downloads\NN Project_Team ID (8)\BackPropagation & RBF (Project)\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
